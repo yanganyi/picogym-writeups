@@ -1,4 +1,4 @@
-## Challenge Name: basic-mod1
+## Challenge Name: Obedient Cat
 Author: SYREAL
 Category: General Skills
 Tags: General Skills
